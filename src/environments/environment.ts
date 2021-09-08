@@ -5,7 +5,7 @@
 export const environment = {
   production: false,
   apiUrls: {
-    directory: 'https://dev.openage.in/directory/api',
+    directory: 'https://url/api',
   }
 };
 
